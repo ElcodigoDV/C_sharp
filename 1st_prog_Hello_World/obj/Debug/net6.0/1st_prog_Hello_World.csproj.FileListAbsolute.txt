@@ -1,0 +1,15 @@
+/home/d/downloads/C#/examples/1st_prog_Hello_World/bin/Debug/net6.0/1st_prog_Hello_World
+/home/d/downloads/C#/examples/1st_prog_Hello_World/bin/Debug/net6.0/1st_prog_Hello_World.deps.json
+/home/d/downloads/C#/examples/1st_prog_Hello_World/bin/Debug/net6.0/1st_prog_Hello_World.runtimeconfig.json
+/home/d/downloads/C#/examples/1st_prog_Hello_World/bin/Debug/net6.0/1st_prog_Hello_World.dll
+/home/d/downloads/C#/examples/1st_prog_Hello_World/bin/Debug/net6.0/1st_prog_Hello_World.pdb
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/1st_prog_Hello_World.csproj.AssemblyReference.cache
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/1st_prog_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/1st_prog_Hello_World.AssemblyInfoInputs.cache
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/1st_prog_Hello_World.AssemblyInfo.cs
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/1st_prog_Hello_World.csproj.CoreCompileInputs.cache
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/1st_prog_Hello_World.dll
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/refint/1st_prog_Hello_World.dll
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/1st_prog_Hello_World.pdb
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/1st_prog_Hello_World.genruntimeconfig.cache
+/home/d/downloads/C#/examples/1st_prog_Hello_World/obj/Debug/net6.0/ref/1st_prog_Hello_World.dll

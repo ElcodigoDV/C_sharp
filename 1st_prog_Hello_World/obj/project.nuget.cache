@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/sIRci51E57GffaY+zW3MKPpAf8t2PjVGPs+/1VKvT0Dn5GfmiOb5pd+mHMXPA2RXrgU7QnsbS62bIsbl6A0Dw==",
+  "success": true,
+  "projectFilePath": "/home/d/downloads/C#/examples/1st_prog_Hello_World/1st_prog_Hello_World.csproj",
+  "expectedPackageFiles": [
+    "/home/d/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
